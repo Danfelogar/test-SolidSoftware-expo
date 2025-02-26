@@ -1,0 +1,17 @@
+{
+  "exportall.config.folderListener": [
+    "/src/components",
+    "/src/utils/theme",
+    "/src/utils/const",
+    "/src/utils",
+    "/src/types",
+    "/src",
+    "/src/screens",
+    "/src/components/app",
+    "/src/components/ui",
+    "/src/hooks"
+  ],
+  "exportall.config.relExclusion": [
+    "/src/components/ui"
+  ]
+}
