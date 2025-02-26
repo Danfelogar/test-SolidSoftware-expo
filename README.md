@@ -1,6 +1,6 @@
 # Solid. Software Random color Test
 
-App for an equity investor who wants to monitor a set of stocks that are on his radar.
+App designed to choose a random color based on a hexadecimal code and to change the theme of the app and its language.
 
 ### Run
 
